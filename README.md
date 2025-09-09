@@ -1,4 +1,4 @@
-## Hi there 👋 , I'm an aspiring elecronics engineer with akeen interest in coding. 
+## Hi there 👋 , I'm an aspiring elecronics engineer with a keen interest in coding. 
 
 <!--
 **ashhmiii/ashhmiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
